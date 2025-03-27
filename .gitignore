@@ -485,3 +485,5 @@ $RECYCLE.BIN/
 .qodo
 LinkAPI/appsettings.json
 LinkAPI/LinkAPI.db
+LinkAPI/LinkAPI.db-shm
+LinkAPI/LinkAPI.db-wal
